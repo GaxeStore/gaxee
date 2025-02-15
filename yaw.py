@@ -75,10 +75,10 @@ if 'count' not in st.session_state:
     }
 
 options_makan = {
-    "Coklat Kunafa": {"Harga": 28000, "gambar": "coklat.png"},
-    "Roti Bakar": {"Harga": 20000, "gambar": "rokar.png"},  
+    "Coklat Kunafa": {"Harga": 28000, "gambar": "Coklat.png"},
+    "Roti Bakar": {"Harga": 20000, "gambar": "Rokar.png"},  
     "Pencake": {"Harga": 24000, "gambar": "pencake.png"},
-    "Brownies": {"Harga": 30000, "gambar": "brownies.png"},
+    "Brownies": {"Harga": 30000, "gambar": "Brownies.png"},
     "Choco Lava": {"Harga": 28000, "gambar": "lava.png"},
     "Golden Waffle": {"Harga": 25000, "gambar": "waffle.png"},
     "Paket Velvet Delight": {"Harga": 42000, "gambar": "1a.png"},
@@ -87,12 +87,12 @@ options_makan = {
 }
 
 options_minum = {
-    "Hot Chocolate Classic": {"Harga": 20000, "gambar": "ori.png"},
-    "Chocolate Milkshake": {"Harga": 24000, "gambar": "choco.png"},  
-    "Iced Mocha Supreme": {"Harga": 26000, "gambar": "ice.png"},
-    "Choco Float Bliss": {"Harga": 25000, "gambar": "float.png"},
-    "Choco Banana Smoothie": {"Harga": 26000, "gambar": "bnn.png"},
-    "Affogato Noir": {"Harga": 28000, "gambar": "aff.png"},
+    "Hot Chocolate Classic": {"Harga": 20000, "gambar": "Ori.png"},
+    "Chocolate Milkshake": {"Harga": 24000, "gambar": "Choco.png"},  
+    "Iced Mocha Supreme": {"Harga": 26000, "gambar": "Ice.png"},
+    "Choco Float Bliss": {"Harga": 25000, "gambar": "Float.png"},
+    "Choco Banana Smoothie": {"Harga": 26000, "gambar": "Bnn.png"},
+    "Affogato Noir": {"Harga": 28000, "gambar": "Aff.png"},
     "Paket Choco Fusion": {"Harga": 46000, "gambar": "float1.png"},
     "Paket Mocha Affair": {"Harga": 52000, "gambar": "aff1.png"},
     "Paket Banana Brezee": {"Harga": 44000, "gambar": "bnn1.png"}
