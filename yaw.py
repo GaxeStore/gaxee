@@ -79,11 +79,11 @@ options_makan = {
     "Roti Bakar": {"Harga": 20000, "gambar": "Rokar.png"},  
     "Pencake": {"Harga": 24000, "gambar": "pencake.png"},
     "Brownies": {"Harga": 30000, "gambar": "Brownies.png"},
-    "Choco Lava": {"Harga": 28000, "gambar": "lava.png"},
-    "Golden Waffle": {"Harga": 25000, "gambar": "waffle.png"},
+    "Choco Lava": {"Harga": 28000, "gambar": "Lava.png"},
+    "Golden Waffle": {"Harga": 25000, "gambar": "Waffle.png"},
     "Paket Velvet Delight": {"Harga": 42000, "gambar": "1a.png"},
     "Paket Golden Indulgence": {"Harga": 50000, "gambar": "1b.png"},
-    "Paket Arabian Touch": {"Harga": 45000, "gambar": "arto.png"}
+    "Paket Arabian Touch": {"Harga": 45000, "gambar": "Arto.png"}
 }
 
 options_minum = {
@@ -93,21 +93,21 @@ options_minum = {
     "Choco Float Bliss": {"Harga": 25000, "gambar": "Float.png"},
     "Choco Banana Smoothie": {"Harga": 26000, "gambar": "Bnn.png"},
     "Affogato Noir": {"Harga": 28000, "gambar": "Aff.png"},
-    "Paket Choco Fusion": {"Harga": 46000, "gambar": "float1.png"},
-    "Paket Mocha Affair": {"Harga": 52000, "gambar": "aff1.png"},
-    "Paket Banana Brezee": {"Harga": 44000, "gambar": "bnn1.png"}
+    "Paket Choco Fusion": {"Harga": 46000, "gambar": "Float1.png"},
+    "Paket Mocha Affair": {"Harga": 52000, "gambar": "Aff1.png"},
+    "Paket Banana Brezee": {"Harga": 44000, "gambar": "Bnn1.png"}
 }
 
 options_merchan = {
-    "Tumbler Choco Luxe": {"Harga": 120000, "gambar": "tumbler.png"},
-    "Mug Velvet": {"Harga": 90000, "gambar": "mug.png"},  
-    "Tote bag Chocoa Carry": {"Harga": 75000, "gambar": "totebag.png"},
-    "Kaos Choco Vibe": {"Harga": 150000, "gambar": "baju.png"},
-    "Apron Choco Craft": {"Harga": 130000, "gambar": "apron.png"},
-    "Notebook Mocha Note": {"Harga": 85000, "gambar": "notebook.png"},
-    "Paket Chocoa Starter": {"Harga": 180000, "gambar": "tumbler1.png"},
-    "Paket Barista Set": {"Harga": 200000, "gambar": "barista.png"},
-    "Paket Choco Lifestle": {"Harga": 320000, "gambar": "baju1.png"}
+    "Tumbler Choco Luxe": {"Harga": 120000, "gambar": "Tumbler.png"},
+    "Mug Velvet": {"Harga": 90000, "gambar": "Mug.png"},  
+    "Tote bag Chocoa Carry": {"Harga": 75000, "gambar": "Totebag.png"},
+    "Kaos Choco Vibe": {"Harga": 150000, "gambar": "Baju.png"},
+    "Apron Choco Craft": {"Harga": 130000, "gambar": "Apron.png"},
+    "Notebook Mocha Note": {"Harga": 85000, "gambar": "Notebook.png"},
+    "Paket Chocoa Starter": {"Harga": 180000, "gambar": "Tumbler1.png"},
+    "Paket Barista Set": {"Harga": 200000, "gambar": "Barista.png"},
+    "Paket Choco Lifestle": {"Harga": 320000, "gambar": "Baju1.png"}
 }
 
 
